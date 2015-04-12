@@ -1,5 +1,5 @@
 # Address Autocomplete web service
-This is a proof-of-concept address autocomplete web service written in Go and backed by Elasticsearch that can support "typeahead" for address search fields in applications. Read [my blog post] for more details and check out [the demo](http://autocomplete-demo.davewalk.net).  
+This is a proof-of-concept address autocomplete web service written in Go and backed by Elasticsearch that can support "typeahead" for address search fields in applications. Read [my blog post] for more details and check out [the demo](http://davewalk.github.io/address-autocomplete).  
 ### Installation
 You'll need [Go](http://golang.org/doc) and [ElasticSearch](http://www.elasticsearch.org).  
 
