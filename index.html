@@ -34,7 +34,7 @@
             datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
             queryTokenizer: Bloodhound.tokenizers.whitespace,
             remote: {
-                url: 'http://autocomplete.davewalk.net/autocomplete?q=%QUERY',
+                url: 'http://address.davewalk.net/autocomplete?q=%QUERY',
                 filter: function(res) {
                     return res.results;
                 }
