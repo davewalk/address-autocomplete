@@ -5,7 +5,7 @@ You'll need [Go](http://golang.org/doc) and [ElasticSearch](http://www.elasticse
 
 Get this repo (don't clone!):  
 
-    go get davewalk.net/address-autocomplete
+    go get -d davewalk.net/address-autocomplete
 
 To create the index, custom analzyer and `address` mapping:  
 
